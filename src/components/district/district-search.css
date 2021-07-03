@@ -1,0 +1,13 @@
+.district-search-container {
+    margin: 0 0 5% 0;
+    height: 100%;
+}
+
+.state-select, .district-select, .date-picker, .pincode-input {
+    margin-right: 5% !important;
+}
+
+.align-content-center{
+    display: flex !important;
+    justify-content: center !important;
+}
